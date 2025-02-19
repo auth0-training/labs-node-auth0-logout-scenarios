@@ -40,7 +40,7 @@
     },
     {
       "title": "Launch the web app",
-      "description": "## Launch the web app\n\n1. Select [this link](command:auth0.lab.tenantConfigure)  to automatically register the web applications we'll use in this lab. This will create **Lab: Web App A** and **Lab: Web App B** in your tenant.\n1. Select [this link](auth0.lab.localConfigure) to automatically create the .env files for these web applications in this workspace. \n1. Select [this link](command:workbench.action.debug.start) to start the applications. \n> This will launch Web App A on port 37500 and Web App B on port 37501. We will only be using Web App A in this section.\n1. Select the **PORTS** tab in this workspace.\n1. Right click on Port 37500 and select **Port visibility** > **Public**.\n1. Repeat this step for Port 37501, as we will use the second web app later in this lab.\n"
+      "description": "## Launch the web app\n\n1. Select [this link](command:auth0.lab.tenantConfigure)  to automatically register the web applications we'll use in this lab. This will create **Lab: Web App A** and **Lab: Web App B** in your tenant.\n1. Select [this link](command:auth0.lab.localConfigure) to automatically create the .env files for these web applications in this workspace. \n1. Select [this link](command:workbench.action.debug.start) to start the applications. \n> This will launch Web App A on port 37500 and Web App B on port 37501. We will only be using Web App A in this section.\n1. Select the **PORTS** tab in this workspace.\n1. Right click on Port 37500 and select **Port visibility** > **Public**.\n1. Repeat this step for Port 37501, as we will use the second web app later in this lab.\n"
     },
     {
       "title": "Configure connections",
